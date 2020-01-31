@@ -26,5 +26,3 @@ function logWhisper(string){
    }
    return "Are you eating enough?";
  }
-
- 
